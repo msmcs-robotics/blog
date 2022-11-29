@@ -1,7 +1,7 @@
 +++
 author = "gndpwnd"
-title = "Sumo Robots 2023 Rules"
-date = "2022-11-28"
+title = "Sumo Robot Competition"
+date = "2022-11-29"
 description = "Rules for the 2023 Sumo Robot Fighting Competition held at the Mat Su College Campus"
 tags = [
     "Competitions",
@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-> Summer 2023
+> Spring 2023
 >
 > **First Prize:** The winning team members of the robot competition will each receive a tuition waiver for one class taught at the Mat-Su College.
 
@@ -22,6 +22,16 @@ The Mat-Su College plans to hold a robotics competition revolving around robots 
 The event is open to all high school and college students.
 
 **Basic Information**
+
+| Specification | Value |
+|---|---|
+| Where | [Glenn Massay Theatre, Mat Su College](https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583)
+| When | 10:00am Sat May 20, 2023 |
+| Contact | Dr. Dan Nichols |
+| Email | [dnichols4@alaska.edu](mailto:dnichols2@alaska.edu)
+| Entry Fee | None |
+
+*all teams looking to enter please contact Dr. Nichols*
 
 Robots Competing Per Event Round: *2*
 
