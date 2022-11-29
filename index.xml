@@ -34,7 +34,7 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 &lt;/a>
 &lt;/span>
 &lt;/h1>&lt;blockquote>
-&lt;p>Access a pdf version of the rules &lt;a href="https://msmcs-robotics.github.io/blog/pdfs/sumo_robo_rules_2023.pdf">here&lt;/a>&lt;/p>
+&lt;p>A pdf version of the rules is available&lt;a href="https://msmcs-robotics.github.io/blog/sumo_robo_2023/sumo_robo_rules_2023.pdf">here&lt;/a>.&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="section-1-definition-of-the-sumo-match" >&lt;strong>Section 1: Definition of the Sumo Match&lt;/strong>
 &lt;span>
@@ -123,6 +123,9 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;p>&lt;br>
+&lt;strong>Ring Diagram&lt;/strong>&lt;/p>
+&lt;p>An example diagram of a constructed ring can be found &lt;a href="https://msmcs-robotics.github.io/blog/sumo_robo_2023/sumo_robo_ring.gif">here&lt;/a>.&lt;/p>
 &lt;h2 id="section-3-requirements-for-robots" >&lt;strong>Section 3: Requirements for Robots&lt;/strong>
 &lt;span>
 &lt;a href="#section-3-requirements-for-robots">
