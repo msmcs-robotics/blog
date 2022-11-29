@@ -18,14 +18,14 @@ tags = [
 ## **About The Event**
 
 The Mat-Su College plans to hold a robotics competition revolving around robots that fight in a sumo wrestling style.
-\
+
 **Who Can Participate?**
-\
+
 The event is open to all high school and college students.
-\
+
 **Basic Information**
-\
-*Robots Competing Per Event Round: *2*
+
+Robots Competing Per Event Round: *2*
 
 Length of Event Round: *3 minutes*
 
@@ -38,9 +38,9 @@ Arena Specifications: *154 cm diameter ring*
 Robot Control: *Autonomous*
 
 Engineering Disciplines Being Used: *Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.*
-\
+
 **Event Summary**
-\
+
 Two robots compete in an autonomous (no human operator) head-to-head match following the basic system of traditional sumo robot matches. Robots are allowed no weapons. The sole purpose is a "pushing match" between the two robots to force one another from the arena.
 
 # **Rules**
@@ -71,7 +71,7 @@ The ring interior is defined as the playing surface surrounded by and including 
 3. The border line is marked as a white circular ring of a width appropriate for the given class on the outer edge of the playing surface. The ring area extends to the outside edge of this circular line.
 
 **Ring Construction & Painting**
-\
+
 | Specification | Value |
 |---|---|
 | Class         | Mega/Humanoid                     |
@@ -83,7 +83,7 @@ The ring interior is defined as the playing surface surrounded by and including 
 | Diameter      | 154.0cm                           |
 | Border Width  | 5cm                               |
 
-\
+
 **Ring Diagram**
 
 An example diagram of a constructed ring can be found [here](/sumo_robo_2023/sumo_robo_ring.gif).
