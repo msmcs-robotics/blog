@@ -45,7 +45,7 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 
 # **Rules**
 
-> A pdf version of the rules is available[here](/sumo_robo_2023/sumo_robo_rules_2023.pdf).
+> A pdf version of the rules is available [here](https://drive.google.com/file/d/1_2IkmBjggukfjQbdFAKwVedgX-IRhDF5/view).
 
 ## **Section 1: Definition of the Sumo Match**
 
@@ -86,7 +86,7 @@ The ring interior is defined as the playing surface surrounded by and including 
 
 **Ring Diagram**
 
-An example diagram of a constructed ring can be found [here](/sumo_robo_2023/sumo_robo_ring.gif).
+An example diagram of a constructed ring can be found [here](https://drive.google.com/file/d/1ac9ry5hk_OGMFyDSoHDmzxLA4xPXOm-L/view?usp=share_link).
 ## **Section 3: Requirements for Robots**
 
 
@@ -144,7 +144,7 @@ An example diagram of a constructed ring can be found [here](/sumo_robo_2023/sum
 3. When the match is not won by either team within the time limit, an extended match may be fought.
 
 
-## **Section 5: Start, Stop, Resume, End a Match**
+## **Section 5: Starting, Stoping, Resuming, and Ending a Match**
 
 ### **Article 8 (Start)**
 
@@ -159,9 +159,9 @@ The match stops and resumes when a judge announces so.
 The match ends when the chief judge announces so. The two teams retrieve the robots from the ring area, and bow.
 
 
-## **Section 6: Time of Match**
+## **Section 6: Time of a Match**
 
-### **Article 11 (Time of Match)**
+### **Article 11 (Time of a Match)**
 
 One Match will be fought for a total of 3 minutes, starting and ending upon the judge's command. The clock shall start ticking five seconds after the start is announced
 

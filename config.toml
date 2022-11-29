@@ -9,10 +9,10 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-name = "MSC Robotics"
+name = "MSC/MSMCS Robotics"
 
 [params]
-author = "MSC Robotics"
+author = "MSC/MSMCS Robotics"
 description = "The Blog Site for the MSC/MSMCS Robotics club"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
