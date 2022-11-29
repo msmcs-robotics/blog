@@ -8,25 +8,19 @@
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
-&lt;/h2>&lt;p>The Mat-Su College plans to hold a robotics competition revolving around robots that fight in a sumo wrestling style.
-&lt;br>
-&lt;strong>Who Can Participate?&lt;/strong>
-&lt;br>
-The event is open to all high school and college students.
-&lt;br>
-&lt;strong>Basic Information&lt;/strong>
-&lt;br>
-*Robots Competing Per Event Round: &lt;em>2&lt;/em>&lt;/p>
+&lt;/h2>&lt;p>The Mat-Su College plans to hold a robotics competition revolving around robots that fight in a sumo wrestling style.&lt;/p>
+&lt;p>&lt;strong>Who Can Participate?&lt;/strong>&lt;/p>
+&lt;p>The event is open to all high school and college students.&lt;/p>
+&lt;p>&lt;strong>Basic Information&lt;/strong>&lt;/p>
+&lt;p>Robots Competing Per Event Round: &lt;em>2&lt;/em>&lt;/p>
 &lt;p>Length of Event Round: &lt;em>3 minutes&lt;/em>&lt;/p>
 &lt;p>Robot Weight Range: &lt;em>&amp;lt;= 3000g&lt;/em>&lt;/p>
 &lt;p>Robot Height Range: &lt;em>20cm wide x 20cm long x any height&lt;/em>&lt;/p>
 &lt;p>Arena Specifications: &lt;em>154 cm diameter ring&lt;/em>&lt;/p>
 &lt;p>Robot Control: &lt;em>Autonomous&lt;/em>&lt;/p>
-&lt;p>Engineering Disciplines Being Used: &lt;em>Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.&lt;/em>
-&lt;br>
-&lt;strong>Event Summary&lt;/strong>
-&lt;br>
-Two robots compete in an autonomous (no human operator) head-to-head match following the basic system of traditional sumo robot matches. Robots are allowed no weapons. The sole purpose is a &amp;ldquo;pushing match&amp;rdquo; between the two robots to force one another from the arena.&lt;/p>
+&lt;p>Engineering Disciplines Being Used: &lt;em>Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Event Summary&lt;/strong>&lt;/p>
+&lt;p>Two robots compete in an autonomous (no human operator) head-to-head match following the basic system of traditional sumo robot matches. Robots are allowed no weapons. The sole purpose is a &amp;ldquo;pushing match&amp;rdquo; between the two robots to force one another from the arena.&lt;/p>
 &lt;h1 id="rules" >&lt;strong>Rules&lt;/strong>
 &lt;span>
 &lt;a href="#rules">
@@ -79,8 +73,7 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 &lt;p>The border line is marked as a white circular ring of a width appropriate for the given class on the outer edge of the playing surface. The ring area extends to the outside edge of this circular line.&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;p>&lt;strong>Ring Construction &amp;amp; Painting&lt;/strong>
-\&lt;/p>
+&lt;p>&lt;strong>Ring Construction &amp;amp; Painting&lt;/strong>&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -123,8 +116,7 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;br>
-&lt;strong>Ring Diagram&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Ring Diagram&lt;/strong>&lt;/p>
 &lt;p>An example diagram of a constructed ring can be found &lt;a href="https://msmcs-robotics.github.io/blog/sumo_robo_2023/sumo_robo_ring.gif">here&lt;/a>.&lt;/p>
 &lt;h2 id="section-3-requirements-for-robots" >&lt;strong>Section 3: Requirements for Robots&lt;/strong>
 &lt;span>
