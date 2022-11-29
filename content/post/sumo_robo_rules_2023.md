@@ -11,9 +11,7 @@ tags = [
 
 > Summer 2023
 >
-> **First Prize:** The winning team members of the robot competition will each get a tuition waiver for one class at the Mat-Su College.
->
-> 
+> **First Prize:** The winning team members of the robot competition will each receive a tuition waiver for one class taught at the Mat-Su College.
 
 ## **About The Event**
 

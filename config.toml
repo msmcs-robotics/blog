@@ -1,6 +1,6 @@
 baseURL = "https://msmcs-robotics.github.io/blog"
 languageCode = "en-us"
-title = "Robo Club Blog"
+title = "The Robot Club Blog"
 theme = "anubis"
 paginate = 5
 publishDir = "docs"
@@ -23,7 +23,7 @@ copyCodeButton = true
 rssAsSocialIcon = false
 
 # Graphcomment support
-graphcommentId = ""
+graphcommentId = "msmcs_robotics_blog"
 
 # utteranc.es support
 utterancesRepo = ""  # mandatory
@@ -33,7 +33,7 @@ utterancesLabel = "" # optional
 
 [[params.social]]
 id = "docs"
-url = "https://github.com/msmcs-robotics/msmcs-robotics-blog"
+url = "https://github.com/msmcs-robotics/blog"
 
 [[params.social]]
 id = "github"

@@ -21,4 +21,24 @@ menu:
   #  weight: 10
 ---
 
-The MSC/MSMCS Robotics club works to improve STEM education for students on the Mat Su College Campus.
+### Background
+
+The merged entity of the Mat Su College and the Mat Su Middle College School robotics clubs ([MSC/MSMCS Robotics](https://msmcs-robotics.github.io)) works to improve STEM education for students at the Mat Su College Campus.
+
+### Projects
+
+Projects tend to regard, but are not limited to, the following fields:
+
+- 🦾 Robotics
+- 🛠️ Mechanical Engineering
+- 💡 Electrical Engineering
+- 🔨 Computer Engineering
+- 🖧 Networking
+- 🖥️ Computer Science
+- 👨‍💻 Cybersecurity
+- 📡 HAM Radio
+- 🥽 Making
+
+### Who runs it?
+
+Your looking at them :)
