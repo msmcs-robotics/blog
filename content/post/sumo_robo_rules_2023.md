@@ -45,7 +45,7 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 
 # **Rules**
 
-> Access a pdf version of the rules [here](/pdfs/sumo_robo_rules_2023.pdf)
+> A pdf version of the rules is available[here](/sumo_robo_2023/sumo_robo_rules_2023.pdf).
 
 ## **Section 1: Definition of the Sumo Match**
 
@@ -83,6 +83,10 @@ The ring interior is defined as the playing surface surrounded by and including 
 | Diameter      | 154.0cm                           |
 | Border Width  | 5cm                               |
 
+\
+**Ring Diagram**
+
+An example diagram of a constructed ring can be found [here](/sumo_robo_2023/sumo_robo_ring.gif).
 ## **Section 3: Requirements for Robots**
 
 
