@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robo Club Blog</title><link>https://msmcs-robotics.github.io/blog/</link><description>Robo Club Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://msmcs-robotics.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Sumo Robots 2023 Rules</title><link>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Robot Club Blog</title><link>https://msmcs-robotics.github.io/blog/</link><description>The Robot Club Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://msmcs-robotics.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Sumo Robots 2023 Rules</title><link>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</guid><description>&lt;blockquote>
 &lt;p>Summer 2023&lt;/p>
-&lt;p>&lt;strong>First Prize:&lt;/strong> The winning team members of the robot competition will each get a tuition waiver for one class at the Mat-Su College.&lt;/p>
+&lt;p>&lt;strong>First Prize:&lt;/strong> The winning team members of the robot competition will each receive a tuition waiver for one class taught at the Mat-Su College.&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="about-the-event" >&lt;strong>About The Event&lt;/strong>
 &lt;span>
@@ -305,4 +305,35 @@
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
-&lt;/h3>&lt;p>The judges have the final call over any unexpected situations.&lt;/p></description></item><item><title/><link>https://msmcs-robotics.github.io/blog/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/archives/</guid><description/></item><item><title>About</title><link>https://msmcs-robotics.github.io/blog/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/about/</guid><description>&lt;p>The MSC/MSMCS Robotics club works to improve STEM education for students on the Mat Su College Campus.&lt;/p></description></item></channel></rss>
+&lt;/h3>&lt;p>The judges have the final call over any unexpected situations.&lt;/p></description></item><item><title/><link>https://msmcs-robotics.github.io/blog/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/archives/</guid><description/></item><item><title>About</title><link>https://msmcs-robotics.github.io/blog/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/about/</guid><description>&lt;h3 id="background" >Background
+&lt;span>
+&lt;a href="#background">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>The merged entity of the Mat Su College and the Mat Su Middle College School robotics clubs (&lt;a href="https://msmcs-robotics.github.io">MSC/MSMCS Robotics&lt;/a>) works to improve STEM education for students at the Mat Su College Campus.&lt;/p>
+&lt;h3 id="projects" >Projects
+&lt;span>
+&lt;a href="#projects">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Projects tend to regard, but are not limited to, the following fields:&lt;/p>
+&lt;ul>
+&lt;li>🦾 Robotics&lt;/li>
+&lt;li>🛠️ Mechanical Engineering&lt;/li>
+&lt;li>💡 Electrical Engineering&lt;/li>
+&lt;li>🔨 Computer Engineering&lt;/li>
+&lt;li>🖧 Networking&lt;/li>
+&lt;li>🖥️ Computer Science&lt;/li>
+&lt;li>👨‍💻 Cybersecurity&lt;/li>
+&lt;li>📡 HAM Radio&lt;/li>
+&lt;li>🥽 Making&lt;/li>
+&lt;/ul>
+&lt;h3 id="who-runs-it" >Who runs it?
+&lt;span>
+&lt;a href="#who-runs-it">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Your looking at them :)&lt;/p></description></item></channel></rss>
