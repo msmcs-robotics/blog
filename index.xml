@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Robo Club Blog</title><link>https://msmcs-robotics.github.io/blog/</link><description>Robo Club Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://msmcs-robotics.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Sumo Robots 2023 Rules</title><link>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</guid><description>&lt;h1 id="sumo-robot-fighting-competition" >Sumo Robot Fighting Competition
+&lt;span>
+&lt;a href="#sumo-robot-fighting-competition">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;blockquote>
+&lt;p>Summer 2023&lt;/p>
+&lt;p>&lt;strong>First Prize:&lt;/strong> The winning team members of the robot competition will each get a tuition waiver for one class at the Mat-Su College.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="about-the-event" >About The Event
+&lt;span>
+&lt;a href="#about-the-event">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>The Mat-Su College plans to hold a robotics competition revolving around robots that fight in a sumo wrestling style.&lt;/p>
+&lt;p>&lt;strong>Who Can Participate?&lt;/strong>&lt;/p>
+&lt;p>The event is open to all high school and college students.&lt;/p>
+&lt;p>&lt;strong>Basic Information&lt;/strong>&lt;/p>
+&lt;p>*Robots Competing Per Event Round: &lt;em>2&lt;/em>&lt;/p>
+&lt;p>Length of Event Round: &lt;em>3 minutes&lt;/em>&lt;/p>
+&lt;p>Robot Weight Range: &lt;em>&amp;lt;= 3000g&lt;/em>&lt;/p>
+&lt;p>Robot Height Range: &lt;em>20cm wide x 20cm long x any height&lt;/em>&lt;/p>
+&lt;p>Arena Specifications: &lt;em>154 cm diameter ring&lt;/em>&lt;/p>
+&lt;p>Robot Control: &lt;em>Autonomous&lt;/em>&lt;/p>
+&lt;p>Engineering Disciplines Being Used: &lt;em>Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Event Summary&lt;/strong>&lt;/p>
+&lt;p>Two robots compete in an autonomous (no human operator) head-to-head match following the basic system of traditional sumo robot matches. Robots are allowed no weapons. The sole purpose is a &amp;ldquo;pushing match&amp;rdquo; between the two robots to force one another from the arena.&lt;/p>
+&lt;h1 id="rules" >Rules
+&lt;span>
+&lt;a href="#rules">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h1>&lt;blockquote>
+&lt;p>Access a pdf version of the rules &lt;a href="https://msmcs-robotics.github.io/blog/pdfs/sumo_robo_rules_2023.pdf">here&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="section-1-definition-of-the-sumo-match" >Section 1: Definition of the Sumo Match
+&lt;span>
+&lt;a href="#section-1-definition-of-the-sumo-match">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="article-1" >Article 1
+&lt;span>
+&lt;a href="#article-1">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>A match is fought between two teams, each team having one or more contestants. Only one team member may approach the ring; other team members must watch from the audience. In accordance with the game rules (hereafter referred to as &amp;ldquo;these rules&amp;rdquo;,) each team competes on sumo ring with a robot that they have constructed themselves to the specifications in Section 3. The match starts at the judge&amp;rsquo;s command and continuous until a contestant is pushed out or the match time has elapsed. The judge determines the winner of the match.&lt;/p>
+&lt;h2 id="section-2-requirements-for-the-sumo-ring" >Section 2: Requirements for the Sumo Ring
+&lt;span>
+&lt;a href="#section-2-requirements-for-the-sumo-ring">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="article-2" >Article 2
+&lt;span>
+&lt;a href="#article-2">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>The ring interior is defined as the playing surface surrounded by and including the border line. Anywhere outside this area is called the exterior.&lt;/p>
+&lt;h3 id="article-3-ring-specifications" >Article 3 (Ring Specifications)
+&lt;span>
+&lt;a href="#article-3-ring-specifications">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>The ring shall be circular in shape and of the appropriate dimensions for the given size class.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Starting line consist of two painted lines centered in the ring with appropriate width and spacing for the given class. The separation distance between the lines is measured to their outside edges.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The border line is marked as a white circular ring of a width appropriate for the given class on the outer edge of the playing surface. The ring area extends to the outside edge of this circular line.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;strong>Ring Construction &amp;amp; Painting&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Specification&lt;/th>
+&lt;th>Value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Class&lt;/td>
+&lt;td>Mega/Humanoid&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Material&lt;/td>
+&lt;td>Polyurethane coated steel plate&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Height&lt;/td>
+&lt;td>5cm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Width&lt;/td>
+&lt;td>2cm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Length&lt;/td>
+&lt;td>20cm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Separation&lt;/td>
+&lt;td>20cm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Diameter&lt;/td>
+&lt;td>154.0cm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Border Width&lt;/td>
+&lt;td>5cm&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="section-3-requirements-for-robots" >Section 3: Requirements for Robots
+&lt;span>
+&lt;a href="#section-3-requirements-for-robots">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="article-5-robot-specifications" >Article 5 (Robot Specifications)
+&lt;span>
+&lt;a href="#article-5-robot-specifications">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>A robot must fit within a square tube of the appropriate dimensions. A robot may expand in size after a match begins, but must not physically separate into pieces, and must remain a single centralized robot. Robots violating these restrictions shall lose the match. Screws, nuts, and other robot parts with a total mass of less than 5 grams falling off from a robot&amp;rsquo;s body shall not cause the loss of match.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The total mass of a robot at the start of a match must be under the designated weight for the given class.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Specification&lt;/th>
+&lt;th>Value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Length&lt;/td>
+&lt;td>20cm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Width&lt;/td>
+&lt;td>20cm&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Height&lt;/td>
+&lt;td>No Boundary&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Weight&lt;/td>
+&lt;td>3000g&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;ol start="3">
+&lt;li>
+&lt;p>&lt;strong>Autonomous:&lt;/strong> Robots must be autonomous. Any method of control may be used, as long as it is fully contained within the robot and receives no external signals or directions (human, machine, or otherwise). Autonomous robot operation must begin automatically no less than five seconds after being started by the user. Robots starting before the five second mark forfeit the match.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The robot must have a name or number for registration purposes. Display this name or number on your robot to allow spectators and officials to identify your robot.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h3 id="article-6-robot-restrictions" >Article 6 (Robot Restrictions)
+&lt;span>
+&lt;a href="#article-6-robot-restrictions">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;ol start="2">
+&lt;li>
+&lt;p>Parts that could break or damage the ring are not allowed. Do not use parts that are intended to damage the opponent’s robot or it&amp;rsquo;s operator. Normal pushes and bangs are not considered intent to damage.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Devices that can store liquid, powder, gas or other substances for throwing at the opponent are not allowed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Any flaming devices are not allowed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Devices that throw things at your opponent are not allowed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Sticky substances to improve traction are not allowed. Tires and other components of the robot in contact with the ring must not be able to pick up and hold a standard 3&amp;quot;x5&amp;quot; index card for more than two seconds.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Devices to increase down force, such as a vacuum pump or magnets, are not allowed.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>All edges, including but not limited to the front scoop, must not be sharp enough to scratch or damage the ring, other robots, or players.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="section-4-how-to-carry-sumo-matches" >Section 4: How to Carry Sumo Matches
+&lt;span>
+&lt;a href="#section-4-how-to-carry-sumo-matches">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="article-7-how-to-carry-sumo-matches" >Article 7 (How to Carry Sumo Matches)
+&lt;span>
+&lt;a href="#article-7-how-to-carry-sumo-matches">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;ol>
+&lt;li>
+&lt;p>One match shall consist of 3 rounds, within a total time of 3 minutes, unless extended by the judges.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The team who wins two rounds within the time limit, shall win the match.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>When the match is not won by either team within the time limit, an extended match may be fought.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="section-5-start-stop-resume-end-a-match" >Section 5: Start, Stop, Resume, End a Match
+&lt;span>
+&lt;a href="#section-5-start-stop-resume-end-a-match">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="article-8-start" >Article 8 (Start)
+&lt;span>
+&lt;a href="#article-8-start">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Upon the judge&amp;rsquo;s instructions, the two teams bow to each other in the outer ring, approach the ring, and place a robot within their half of the ring on or behind the line. (A robot or a part of a robot may not be placed beyond the front edge of the line toward the opponent. Note that is not required that a robot be placed directly behind the line; it may be offset to the side, as long as it is behind an imaginary line collinear with the line. When the judge announces the start of the round, the teams start their robots, and after a five second pause the robots may start operating. During these five seconds, players must clear out of the ring area.&lt;/p>
+&lt;h3 id="article-9-stopresume" >Article 9 (Stop/Resume)
+&lt;span>
+&lt;a href="#article-9-stopresume">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>The match stops and resumes when a judge announces so.&lt;/p>
+&lt;h3 id="article-10-end" >Article 10 (End)
+&lt;span>
+&lt;a href="#article-10-end">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>The match ends when the chief judge announces so. The two teams retrieve the robots from the ring area, and bow.&lt;/p>
+&lt;h2 id="section-6-time-of-match" >Section 6: Time of Match
+&lt;span>
+&lt;a href="#section-6-time-of-match">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="article-11-time-of-match" >Article 11 (Time of Match)
+&lt;span>
+&lt;a href="#article-11-time-of-match">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>One Match will be fought for a total of 3 minutes, starting and ending upon the judge&amp;rsquo;s command. The clock shall start ticking five seconds after the start is announced&lt;/p>
+&lt;h3 id="article-12" >Article 12
+&lt;span>
+&lt;a href="#article-12">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>An extended match, if called for by the judge, shall last for a maximum of 3 minutes.&lt;/p>
+&lt;h2 id="section-7-to-win" >Section 7: To Win
+&lt;span>
+&lt;a href="#section-7-to-win">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ol>
+&lt;li>
+&lt;p>A team forces the body of the opposing robot outside the ring&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The match shall be stopped and a rematch started under the following conditions:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>The robots are entangled or orbiting each other with no perceivable progress for five seconds. If it is unclear whether progress is being made or not, the judge can extend the time limit for observable progress for up to 30 seconds.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Both robots move, without making progress, or stop (at the exact same time) and stay stopped for five seconds without touching each other. However, if one robot stops it&amp;rsquo;s movement first, after five seconds it will be declared as not having the will to fight. In this case the opponent shall receive the win for that round, even if the opponent also stops. If both robots are moving and it isn&amp;rsquo;t clear if progress is being made or not, the judge can extend the time limit up to 30 seconds.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ol>
+&lt;h2 id="section-8-miscellaneous" >Section 8: Miscellaneous
+&lt;span>
+&lt;a href="#section-8-miscellaneous">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="article-13-flexibility-of-the-rules" >Article 13 (Flexibility of the Rules)
+&lt;span>
+&lt;a href="#article-13-flexibility-of-the-rules">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>The judges have the final call over any unexpected situations.&lt;/p></description></item><item><title/><link>https://msmcs-robotics.github.io/blog/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/archives/</guid><description/></item><item><title>About</title><link>https://msmcs-robotics.github.io/blog/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/about/</guid><description>&lt;p>The MSC/MSMCS Robotics club works to improve STEM education for students on the Mat Su College Campus.&lt;/p></description></item></channel></rss>
