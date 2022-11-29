@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Robot Club Blog</title><link>https://msmcs-robotics.github.io/blog/</link><description>The Robot Club Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://msmcs-robotics.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Sumo Robots 2023 Rules</title><link>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</link><pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</guid><description>&lt;blockquote>
-&lt;p>Summer 2023&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>The Robot Club Blog</title><link>https://msmcs-robotics.github.io/blog/</link><description>The Robot Club Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://msmcs-robotics.github.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Sumo Robot Competition</title><link>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</link><pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate><guid>https://msmcs-robotics.github.io/blog/post/sumo_robo_rules_2023/</guid><description>&lt;blockquote>
+&lt;p>Spring 2023&lt;/p>
 &lt;p>&lt;strong>First Prize:&lt;/strong> The winning team members of the robot competition will each receive a tuition waiver for one class taught at the Mat-Su College.&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="about-the-event" >&lt;strong>About The Event&lt;/strong>
@@ -12,6 +12,37 @@
 &lt;p>&lt;strong>Who Can Participate?&lt;/strong>&lt;/p>
 &lt;p>The event is open to all high school and college students.&lt;/p>
 &lt;p>&lt;strong>Basic Information&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Specification&lt;/th>
+&lt;th>Value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Where&lt;/td>
+&lt;td>&lt;a href="https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583">Glenn Massay Theatre, Mat Su College&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>When&lt;/td>
+&lt;td>10:00am Sat May 20, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Contact&lt;/td>
+&lt;td>Dr. Dan Nichols&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Email&lt;/td>
+&lt;td>&lt;a href="mailto:dnichols2@alaska.edu">dnichols4@alaska.edu&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Entry Fee&lt;/td>
+&lt;td>None&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;em>all teams looking to enter please contact Dr. Nichols&lt;/em>&lt;/p>
 &lt;p>Robots Competing Per Event Round: &lt;em>2&lt;/em>&lt;/p>
 &lt;p>Length of Event Round: &lt;em>3 minutes&lt;/em>&lt;/p>
 &lt;p>Robot Weight Range: &lt;em>&amp;lt;= 3000g&lt;/em>&lt;/p>
