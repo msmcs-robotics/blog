@@ -40,16 +40,34 @@
 &lt;td>Entry Fee&lt;/td>
 &lt;td>None&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td>Robots Competing Per Event Round&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Length of Event Round&lt;/td>
+&lt;td>3 minutes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Robot Weight Range&lt;/td>
+&lt;td>&amp;lt;= 3000g&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Robot Height Range&lt;/td>
+&lt;td>20cm wide x 20cm long x any height&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Arena Specifications:&lt;/td>
+&lt;td>154 cm diameter ring&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Robot Control&lt;/td>
+&lt;td>Autonomous&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>&lt;em>all teams looking to enter please contact Dr. Nichols&lt;/em>&lt;/p>
-&lt;p>Robots Competing Per Event Round: &lt;em>2&lt;/em>&lt;/p>
-&lt;p>Length of Event Round: &lt;em>3 minutes&lt;/em>&lt;/p>
-&lt;p>Robot Weight Range: &lt;em>&amp;lt;= 3000g&lt;/em>&lt;/p>
-&lt;p>Robot Height Range: &lt;em>20cm wide x 20cm long x any height&lt;/em>&lt;/p>
-&lt;p>Arena Specifications: &lt;em>154 cm diameter ring&lt;/em>&lt;/p>
-&lt;p>Robot Control: &lt;em>Autonomous&lt;/em>&lt;/p>
-&lt;p>Engineering Disciplines Being Used: &lt;em>Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.&lt;/em>&lt;/p>
+&lt;p>Engineering Disciplines Being Used: &lt;em>Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.&lt;/em>
+&lt;em>All teams looking to enter please contact Dr. Nichols&lt;/em>&lt;/p>
 &lt;p>&lt;strong>Event Summary&lt;/strong>&lt;/p>
 &lt;p>Two robots compete in an autonomous (no human operator) head-to-head match following the basic system of traditional sumo robot matches. Robots are allowed no weapons. The sole purpose is a &amp;ldquo;pushing match&amp;rdquo; between the two robots to force one another from the arena.&lt;/p>
 &lt;h1 id="rules" >&lt;strong>Rules&lt;/strong>
