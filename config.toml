@@ -6,7 +6,7 @@ paginate = 5
 publishDir = "docs"
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "G-T1ZFNTH76H"
 
 [author]
 name = "MSC/MSMCS Robotics"
