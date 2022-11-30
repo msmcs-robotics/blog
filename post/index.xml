@@ -11,7 +11,7 @@
 &lt;/h2>&lt;p>The Mat-Su College plans to hold a robotics competition revolving around robots that fight in a sumo wrestling style.&lt;/p>
 &lt;p>&lt;strong>Who Can Participate?&lt;/strong>&lt;/p>
 &lt;p>The event is open to all high school and college students.&lt;/p>
-&lt;p>&lt;strong>Basic Information&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Basic Competition Information&lt;/strong>&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -20,26 +20,6 @@
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
-&lt;tr>
-&lt;td>Where&lt;/td>
-&lt;td>&lt;a href="https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583">Glenn Massay Theatre, Mat Su College&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>When&lt;/td>
-&lt;td>10:00am Sat May 20, 2023&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Contact&lt;/td>
-&lt;td>Dr. Dan Nichols&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Email&lt;/td>
-&lt;td>&lt;a href="mailto:dnichols2@alaska.edu">dnichols4@alaska.edu&lt;/a>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Entry Fee&lt;/td>
-&lt;td>None&lt;/td>
-&lt;/tr>
 &lt;tr>
 &lt;td>Robots Competing Per Event Round&lt;/td>
 &lt;td>2&lt;/td>
@@ -63,6 +43,37 @@
 &lt;tr>
 &lt;td>Robot Control&lt;/td>
 &lt;td>Autonomous&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>&lt;strong>Basic Event Information&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Specification&lt;/th>
+&lt;th>Value&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Where&lt;/td>
+&lt;td>&lt;a href="https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583">Glenn Massay Theatre, Mat Su College&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>When&lt;/td>
+&lt;td>10:00am Sat May 20, 2023&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Coordinator&lt;/td>
+&lt;td>Dr. Dan Nichols&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>CoordinatorEmail&lt;/td>
+&lt;td>&lt;a href="mailto:dnichols4@alaska.edu">dnichols4@alaska.edu&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Entry Fee&lt;/td>
+&lt;td>None&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
