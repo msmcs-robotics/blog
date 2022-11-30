@@ -30,22 +30,15 @@ The event is open to all high school and college students.
 | Contact | Dr. Dan Nichols |
 | Email | [dnichols4@alaska.edu](mailto:dnichols2@alaska.edu)
 | Entry Fee | None |
-
-*all teams looking to enter please contact Dr. Nichols*
-
-Robots Competing Per Event Round: *2*
-
-Length of Event Round: *3 minutes*
-
-Robot Weight Range: *<= 3000g*
-
-Robot Height Range: *20cm wide x 20cm long x any height*
-
-Arena Specifications: *154 cm diameter ring*
-
-Robot Control: *Autonomous*
+| Robots Competing Per Event Round | 2 |
+| Length of Event Round | 3 minutes |
+| Robot Weight Range | <= 3000g |
+| Robot Height Range | 20cm wide x 20cm long x any height |
+| Arena Specifications: | 154 cm diameter ring |
+| Robot Control | Autonomous |
 
 Engineering Disciplines Being Used: *Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.*
+*All teams looking to enter please contact Dr. Nichols*
 
 **Event Summary**
 
@@ -56,11 +49,9 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 > A pdf version of the rules is available [here](https://drive.google.com/file/d/1_2IkmBjggukfjQbdFAKwVedgX-IRhDF5/view).
 
 ## **Section 1: Definition of the Sumo Match**
-
 ### **Article 1**
 
 A match is fought between two teams, each team having one or more contestants. Only one team member may approach the ring; other team members must watch from the audience. In accordance with the game rules (hereafter referred to as "these rules",) each team competes on sumo ring with a robot that they have constructed themselves to the specifications in Section 3. The match starts at the judge's command and continuous until a contestant is pushed out or the match time has elapsed. The judge determines the winner of the match.
-
 
 ## **Section 2: Requirements for the Sumo Ring**
 
@@ -91,12 +82,11 @@ The ring interior is defined as the playing surface surrounded by and including 
 | Diameter      | 154.0cm                           |
 | Border Width  | 5cm                               |
 
-
 **Ring Diagram**
 
 An example diagram of a constructed ring can be found [here](https://drive.google.com/file/d/1ac9ry5hk_OGMFyDSoHDmzxLA4xPXOm-L/view?usp=share_link).
-## **Section 3: Requirements for Robots**
 
+## **Section 3: Requirements for Robots**
 
 ### **Article 5 (Robot Specifications)**
 
@@ -115,7 +105,6 @@ An example diagram of a constructed ring can be found [here](https://drive.googl
 3. **Autonomous:** Robots must be autonomous. Any method of control may be used, as long as it is fully contained within the robot and receives no external signals or directions (human, machine, or otherwise). Autonomous robot operation must begin automatically no less than five seconds after being started by the user. Robots starting before the five second mark forfeit the match.
 
 4. The robot must have a name or number for registration purposes. Display this name or number on your robot to allow spectators and officials to identify your robot.
-
 
 ### **Article 6 (Robot Restrictions)**
 
@@ -138,7 +127,6 @@ An example diagram of a constructed ring can be found [here](https://drive.googl
 
 
 8. All edges, including but not limited to the front scoop, must not be sharp enough to scratch or damage the ring, other robots, or players.
-
 ## **Section 4: How to Carry Sumo Matches**
 
 ### **Article 7 (How to Carry Sumo Matches)**
@@ -150,8 +138,6 @@ An example diagram of a constructed ring can be found [here](https://drive.googl
 
 
 3. When the match is not won by either team within the time limit, an extended match may be fought.
-
-
 ## **Section 5: Starting, Stoping, Resuming, and Ending a Match**
 
 ### **Article 8 (Start)**
@@ -161,11 +147,9 @@ Upon the judge's instructions, the two teams bow to each other in the outer ring
 ### **Article 9 (Stop/Resume)**
 
 The match stops and resumes when a judge announces so.
-
 ### **Article 10 (End)**
 
 The match ends when the chief judge announces so. The two teams retrieve the robots from the ring area, and bow.
-
 
 ## **Section 6: Time of a Match**
 
@@ -173,11 +157,9 @@ The match ends when the chief judge announces so. The two teams retrieve the rob
 
 One Match will be fought for a total of 3 minutes, starting and ending upon the judge's command. The clock shall start ticking five seconds after the start is announced
 
-
 ### **Article 12**
 
 An extended match, if called for by the judge, shall last for a maximum of 3 minutes.
-
 
 ## **Section 7: To Win**
 

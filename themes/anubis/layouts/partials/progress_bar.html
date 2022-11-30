@@ -1,0 +1,25 @@
+<style>
+    .progress-bar {
+        height: 8px;
+        background: #7DF9FF;
+        width: 0%;
+        border-radius: 25px;
+        z-index: 100;
+        position: fixed;
+    }
+</style>
+
+<div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+</div> 
+
+<script>
+    window.onscroll = function() {progressbar()};
+
+    function progressbar() {
+    var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    var scrolled = (winScroll / height) * 100;
+    document.getElementById("myBar").style.width = scrolled + "%";
+    }
+</script>

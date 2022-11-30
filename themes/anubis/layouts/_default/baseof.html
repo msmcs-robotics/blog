@@ -11,6 +11,7 @@
 </head>
 <body>
     <a class="skip-main" href="#main">{{ i18n "skipToContent" }}</a>
+    {{ partial "progress_bar.html" . }}
     <div class="container">
         <header class="common-header"> 
             {{ block "header" . }}
@@ -19,6 +20,18 @@
         </header>
         <main id="main" tabindex="-1"> 
             {{ block "main" . }}{{ end }}
+            <script>
+                // add line break after each occurence of specified elements
+                document.querySelectorAll('h1, h2, h3, h4, h5, h6, p, blockquote, table, pre').forEach(function (el) {
+                    // add line break after element
+                    el.insertAdjacentHTML('afterend', '<br>');
+                });
+                // add line break after each occurence of specified class
+                document.querySelectorAll('.post-header, .common-header').forEach(function (el) {
+                    // add line break after element
+                    el.insertAdjacentHTML('afterend', '<br>');
+                });
+            </script>
         </main>
         {{ block "footer" . }}
             {{ partial "footer.html" . }}
