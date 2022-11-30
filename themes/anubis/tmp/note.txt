@@ -1,1 +1,0 @@
-Move subpages to content/ for about subpages

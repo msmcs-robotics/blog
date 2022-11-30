@@ -1,4 +1,6 @@
 social_icons:
+  mainsite: https://msmcs-robotics.github.io/%s
+  src: https://github.com/msmcs-robotics/blog/%s
   email: mailto:%s
   facebook: https://www.facebook.com/%s
   github: https://github.com/%s
@@ -14,3 +16,4 @@ social_icons:
   twitter: https://twitter.com/%s
   vk: https://vk.com/%s
   youtube: https://www.youtube.com/c/%s
+  tiktok: https://tiktok.com/@%s
