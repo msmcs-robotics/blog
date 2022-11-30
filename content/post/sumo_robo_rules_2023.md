@@ -21,21 +21,26 @@ The Mat-Su College plans to hold a robotics competition revolving around robots 
 
 The event is open to all high school and college students.
 
-**Basic Information**
+**Basic Competition Information**
 
 | Specification | Value |
 |---|---|
-| Where | [Glenn Massay Theatre, Mat Su College](https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583)
-| When | 10:00am Sat May 20, 2023 |
-| Contact | Dr. Dan Nichols |
-| Email | [dnichols4@alaska.edu](mailto:dnichols2@alaska.edu)
-| Entry Fee | None |
 | Robots Competing Per Event Round | 2 |
 | Length of Event Round | 3 minutes |
 | Robot Weight Range | <= 3000g |
 | Robot Height Range | 20cm wide x 20cm long x any height |
 | Arena Specifications: | 154 cm diameter ring |
 | Robot Control | Autonomous |
+
+**Basic Event Information**
+
+| Specification | Value |
+|---|---|
+| Where | [Glenn Massay Theatre, Mat Su College](https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583)
+| When | 10:00am Sat May 20, 2023 |
+| Coordinator | Dr. Dan Nichols |
+| CoordinatorEmail | [dnichols4@alaska.edu](mailto:dnichols4@alaska.edu)
+| Entry Fee | None |
 
 Engineering Disciplines Being Used: *Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.*
 *All teams looking to enter please contact Dr. Nichols*
