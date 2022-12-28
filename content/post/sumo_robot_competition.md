@@ -43,7 +43,9 @@ The event is open to all high school and college students.
 | Entry Fee | None |
 
 Engineering Disciplines Being Used: *Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.*
-*All teams looking to enter please contact Dr. Nichols*
+
+
+***All teams looking to enter please contact Dr. Nichols***
 
 **Event Summary**
 
@@ -51,7 +53,7 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 
 # **Rules**
 
-> A pdf version of the rules is available [here](https://drive.google.com/file/d/1_2IkmBjggukfjQbdFAKwVedgX-IRhDF5/view).
+> A pdf version of the rules is available [here](https://drive.google.com/file/d/1VETfwYiOJFyk9AMacYpOBZ3mu3pZpTQ3/view?usp=sharing).
 
 ## **Section 1: Definition of the Sumo Match**
 ### **Article 1**
