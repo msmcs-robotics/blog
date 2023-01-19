@@ -11,7 +11,7 @@ tags = [
 
 > Spring 2023
 >
-> **First Prize:** The winning team members of the robot competition will each receive a tuition waiver for one class taught at the Mat-Su College.
+> **First Prize:** If a team of 4 members or less wins the competition, each member will be eligible to receive a maximum of 3 pre-paid credits at Mat Su College.
 
 ## **About The Event**
 
