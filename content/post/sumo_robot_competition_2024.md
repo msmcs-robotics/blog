@@ -1,8 +1,8 @@
 +++
-author = "gndpwnd"
-title = "Sumo Robot Competition"
-date = "2022-11-29"
-description = "Rules for the 2023 Sumo Robot Fighting Competition held at the Mat Su College Campus"
+author = "mscintra"
+title = "Sumo Robot Competition 2024"
+date = "2023-09-29"
+description = "Rules for the 2024 Sumo Robot Fighting Competition held at the Mat Su College Campus"
 tags = [
     "Competitions",
     "Sumo Robots",
@@ -37,7 +37,7 @@ The event is open to all high school and college students.
 | Specification | Value |
 |---|---|
 | Where | [Glenn Massay Theatre, Mat Su College](https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583)
-| When | 10:00am Sat May 20, 2023 |
+| When | 10:00am Sat April 20, 2024 |
 | Coordinator | Dr. Dan Nichols |
 | CoordinatorEmail | [dnichols4@alaska.edu](mailto:dnichols4@alaska.edu)
 | Entry Fee | None |
@@ -53,7 +53,7 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 
 # **Rules**
 
-> A pdf version of the rules is available [here](https://drive.google.com/file/d/1VETfwYiOJFyk9AMacYpOBZ3mu3pZpTQ3/view?usp=sharing).
+> A pdf version of the rules is available [here](https://drive.google.com/file/d/1Fs3u9AHuHnHvslI5FCIF1WDwj4aAOxjZ/view?usp=drive_link).
 
 ## **Section 1: Definition of the Sumo Match**
 ### **Article 1**
