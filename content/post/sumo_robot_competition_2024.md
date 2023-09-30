@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-> Spring 2023
+> Spring 2024
 >
 > **First Prize:** If a team of 4 members or less wins the competition, each member will be eligible to receive a maximum of 3 pre-paid credits at Mat Su College.
 
