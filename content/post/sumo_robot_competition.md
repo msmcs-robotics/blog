@@ -1,16 +1,4 @@
-+++
-author = "mscintra"
-title = "Sumo Robot Competition 2024"
-date = "2023-09-29"
-description = "Rules for the 2024 Sumo Robot Fighting Competition held at the Mat Su College Campus"
-tags = [
-    "Competitions",
-    "Sumo Robots",
-]
-+++
 
-> Spring 2024
->
 > **First Prize:** If a team of 4 members or less wins the competition, each member will be eligible to receive a maximum of 3 pre-paid credits at Mat Su College.
 
 ## **About The Event**
@@ -34,26 +22,25 @@ The event is open to all high school and college students.
 
 **Basic Event Information**
 
-| Specification | Value |
-|---|---|
-| Where | [Glenn Massay Theatre, Mat Su College](https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583)
-| When | 10:00am Sat April 20, 2024 |
-| Coordinator | Dr. Dan Nichols |
-| CoordinatorEmail | [dnichols4@alaska.edu](mailto:dnichols4@alaska.edu)
-| Entry Fee | None |
+| Specification    | Value                                                                                                                                                                                                                        |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Location         | [Glenn Massay Theater, Mat Su College](https://www.google.com/maps/place/The+Glenn+Massay+Theater/@61.5805171,-149.2407717,17z/data=!3m1!4b1!4m5!3m4!1s0x56c8e1bb504c69fb:0xd4915e2b7a8aca26!8m2!3d61.5805171!4d-149.238583) |
+| Coordinator      | Dr. Daniel Nichols                                                                                                                                                                                                           |
+| CoordinatorEmail | [dnichols4@alaska.edu](mailto:dnichols4@alaska.edu)                                                                                                                                                                          |
+| Entry Fee        | None                                                                                                                                                                                                                         |
 
 Engineering Disciplines Being Used: *Robotics, Mechanical Engineering, Electrical Engineering, Computer Science.*
 
 
 ***All teams looking to enter please contact Dr. Nichols***
 
+<div style="page-break-after: always;"></div>
+
 **Event Summary**
 
 Two robots compete in an autonomous (no human operator) head-to-head match following the basic system of traditional sumo robot matches. Robots are allowed no weapons. The sole purpose is a "pushing match" between the two robots to force one another from the arena.
 
 # **Rules**
-
-> A pdf version of the rules is available [here](https://drive.google.com/file/d/1Fs3u9AHuHnHvslI5FCIF1WDwj4aAOxjZ/view?usp=drive_link).
 
 ## **Section 1: Definition of the Sumo Match**
 ### **Article 1**
