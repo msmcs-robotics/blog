@@ -38,6 +38,6 @@
     {{ end }}
 
     {{ if not .Params.disableComments }}
-        {{ partial "comments.html" . }}
+        {{ partial "disqus.html" . }}
     {{ end }}
 {{ end }}
