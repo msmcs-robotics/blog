@@ -42,6 +42,8 @@ Two robots compete in an autonomous (no human operator) head-to-head match follo
 
 # **Rules**
 
+> A pdf version of the rules is available [here](https://drive.google.com/file/d/1iMWte9MpcH3sAIyiVEw5s1PYVfZJVJVX/view?usp=sharing).
+
 ## **Section 1: Definition of the Sumo Match**
 ### **Article 1**
 
@@ -169,4 +171,4 @@ An extended match, if called for by the judge, shall last for a maximum of 3 min
 
 ### **Article 13 (Flexibility of the Rules)**
 
-The judges have the final call over any unexpected situations.
+The judges have the final call over any unexpected situations.ons.ons.
