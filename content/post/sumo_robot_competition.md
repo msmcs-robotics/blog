@@ -1,4 +1,14 @@
 
++++
+author = "gndpwnd"
+title = "Sumo Robot Competition"
+description = "Rules for the Sumo Robot Fighting Competition held at the Mat Su College Campus"
+tags = [
+    "Competitions",
+    "Sumo Robots",
+]
++++
+
 > **First Prize:** If a team of 4 members or less wins the competition, each member will be eligible to receive a maximum of 3 pre-paid credits at Mat Su College.
 
 ## **About The Event**
@@ -171,4 +181,4 @@ An extended match, if called for by the judge, shall last for a maximum of 3 min
 
 ### **Article 13 (Flexibility of the Rules)**
 
-The judges have the final call over any unexpected situations.ons.ons.
+The judges have the final call over any unexpected situations.ons.ons.ons.
