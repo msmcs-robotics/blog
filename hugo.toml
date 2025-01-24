@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://msmcs-robotics.github.io/blog"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "MSC Robotics Blog"
