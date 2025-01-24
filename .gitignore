@@ -1,5 +1,7 @@
 .hugo_build.lock
 docs/
+public/
+.vscode/
 resources/
 node_modules/
 package-lock.json

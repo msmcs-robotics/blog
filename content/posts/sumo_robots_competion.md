@@ -108,7 +108,7 @@ An example diagram of a constructed ring can be found [here](https://drive.googl
 | Weight    | 3000g         |
 
 
-3. **Autonomous:** Robots must be autonomous. Any method of control may be used, as long as it is fully contained within the robot and receives no external signals or directions (human, machine, or otherwise). Autonomous robot operation must begin automatically no less than five seconds after being started by the user. Robots starting before the five second mark forfeit the match.
+3. **Autonomous:** Robots must be autonomous. Any method of control may be used, as long as it is fully contained within the robot and receives no external signals or directions (human, machine, or otherwise). Autonomous robot operation must begin automatically no less than five seconds after being started by the user. Robots starting before the five second mark forfeit the match.
 
 4. The robot must have a name or number for registration purposes. Display this name or number on your robot to allow spectators and officials to identify your robot.
 
